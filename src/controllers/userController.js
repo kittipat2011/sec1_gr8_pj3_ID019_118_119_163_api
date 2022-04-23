@@ -127,7 +127,7 @@ exports.login = (req,res) => {
 
             return res.send({
                 token: token,
-                result: result,
+                data: result,
                 message: "login successfully."
             });
         }else{
