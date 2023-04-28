@@ -17,7 +17,7 @@ With this song management system, users can easily organize their music collecti
 <img src="/snapshot/artistManagement.png" alt="artistManagement">
 
 - `Song Management`<br>
-<img src="/snapshot/SongManagement.png" alt="SongManagement">
+<img src="/snapshot/songManagement.png" alt="SongManagement">
 
 - `User Management`<br>
-<img src="/snapshot/UserManagement.png" alt="UserManagement">
+<img src="/snapshot/userManagement.png" alt="UserManagement">
