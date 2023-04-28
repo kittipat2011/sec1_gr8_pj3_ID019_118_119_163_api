@@ -1,4 +1,4 @@
-# Song Management System using React.js
+# Song Management System using React.js and MySQL
 
 ## Project Description
 This project aims to develop a song management system that will provide users with a comprehensive platform to manage their music collection. 
